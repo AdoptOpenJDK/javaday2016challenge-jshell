@@ -3,6 +3,8 @@
 This is a simple hackaton to teach the basics of jshell
 (The code is based on http://www.jpct.net/wiki/index.php?title=Collision_detection , full complements to them)
 
+This hackathon was performed on "Java Day" in Johannesburg 9'th of March 2016 http://www.meetup.com/Jozi-JUG/photos/26801776/#447665841
+
 * Presenter must show
   * How to launch jshell
   * Run a System.out.println("Hello");
@@ -22,3 +24,4 @@ This is a simple hackaton to teach the basics of jshell
   * move()
   * refresh()
   * Now create a interactive game, the best game wins
+(HINT gameLoop() allows for keyboard interaction)
